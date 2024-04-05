@@ -10,9 +10,11 @@
   },
   "dependencies": {
     "aws-amplify": "latest",
+    "axios": "^1.6.8",
     "next": "13.5.4",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "sharp": "^0.33.3"
   },
   "devDependencies": {
     "@aws-amplify/backend": "beta",
